@@ -11,6 +11,8 @@ Quick Links
 ## Engineering
 
 ### Onboarding
+Projects for starting employee
+Tips and Tricks for new People
 
 ### EPLAN
 
@@ -19,3 +21,6 @@ Quick Links
 ### 
 
 ## Production
+
+# Synthess
+How to use synthess what kind of options are there
